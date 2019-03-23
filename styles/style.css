@@ -1,0 +1,19 @@
+html {
+    font-size: 10px;
+    font-family: 'Open Sans', sans-serif;
+}
+h1 {
+    font-size: 60px;
+    text-align: center;
+}
+p, li {
+    font-size: 25;
+    letter-spacing: 1px;
+    line-height: 2;
+    text-align: center;
+}
+#firefox {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
